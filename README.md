@@ -1,13 +1,7 @@
-
-
-<div align="right">
-  ## 소개
-</div>
-<div align="left">
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=babnbabn)](https://solved.ac/babnbabn)
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 5rem;">
 <a href="https://solved.ac/babnbabn"><img src="http://mazassumnida.wtf/api/generate_badge?boj=babnbabn"></a>
+<a href="https://github.com/WithJo"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WithJo"></a>
 </div>
-
 
 <!--
 **WithJo/WithJo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
