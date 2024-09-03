@@ -1,8 +1,12 @@
-## 소개
 
 
+<div align="right">
+  ## 소개
+</div>
+<div align="left">
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=babnbabn)](https://solved.ac/babnbabn)
 <a href="https://solved.ac/babnbabn"><img src="http://mazassumnida.wtf/api/generate_badge?boj=babnbabn"></a>
+</div>
 
 
 <!--
