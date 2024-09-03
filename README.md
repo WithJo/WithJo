@@ -2,7 +2,7 @@
 
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=babnbabn)](https://solved.ac/babnbabn)
-<img src="https://solved.ac/babnbabn"><img src="http://mazassumnida.wtf/api/generate_badge?boj=babnbabn"/></img>
+<img src="http://mazassumnida.wtf/api/generate_badge?boj=babnbabn"/>
 
 
 <!--
