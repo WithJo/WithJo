@@ -1,7 +1,7 @@
 ## 소개
 
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=babnbabn)](https://solved.ac/babnbabn)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=조재용)](https://solved.ac/babnbabn)
 
 
 <!--
