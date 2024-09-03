@@ -1,8 +1,17 @@
-<a href="https://velog.io/@babnbabn/posts"><img src="https://img.shields.io/badge/velog-20C997?logo=velog&logoColor=white"></a>
-
-<div style="display:flex; align:center; gap:5rem;">
+## About Me
 
 <a href="https://solved.ac/babnbabn"><img src="http://mazassumnida.wtf/api/generate_badge?boj=babnbabn" ></a>
-<a href="https://github.com/WithJo"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WithJo" height="200" style="border-radius:22px"></a>
 
-</div>
+## Skills
+
+## Experience
+
+## Education
+
+-   경북대학교 컴퓨터학부 심화컴퓨터전공 (2021 ~ ing)
+
+## Projects
+
+-   <a href="https://github.com/WithJo/KkodleInLinux">꼬들 in Linux</a> (2024)
+-   <a href="https://github.com/WithJo/modakfire">모닥불</a> (2024)
+-   <a href="https://github.com/WithJo/babsim">밥심</a> (2024)
