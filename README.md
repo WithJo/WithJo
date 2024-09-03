@@ -1,6 +1,6 @@
 <div style="display: flex; align-items: center;">
     <a href="https://solved.ac/babnbabn">
-        <img src="http://mazassumnida.wtf/api/generate_badge?boj=babnbabn" alt="BOJ Badge" height="100">
+        <img src="http://mazassumnida.wtf/api/generate_badge?boj=babnbabn" alt="BOJ Badge">
     </a>
     	&nbsp;	&nbsp;
     <a href="https://github.com/WithJo">
